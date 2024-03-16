@@ -6,7 +6,7 @@ Summary of Changes Made to the Data (listed for the purpose of supporting my own
 2. Data was reviewed using **`train_df.describe()`**.
 3. The impact of the **`Pclass`** feature on survival was examined.
 4. The effect of the **`Sex`** feature on survival was analyzed.
-5. The influence of the **`SibSp`** feature on survival was studied.
+5. The influence of the **`SibSp`** feature on survival was investigated.
 6. The impact of the **`Parch`** feature on survival was investigated.
 7. The **`Age`** feature was visualized to understand its effect on survival.
 8. The effects of **`Embarked`**, **`Pclass`**, and **`Pclass`** features on survival were examined.
